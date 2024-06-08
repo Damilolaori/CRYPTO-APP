@@ -1,1 +1,2 @@
-# CRYPTO-APP
+Unveiling the Power of Technical Analysis: A Guide to Cryptocurrency Market Insights
+Cryptocurrency trading can be thrilling and daunting, especially with the volatile nature of digital assets. Many investors and traders seek to predict price movements and make informed decisions. One popular method is technical analysis, which uses historical price data to forecast future trends. This article explores a data science approach to technical analysis, focusing on a 200-day moving average, and introduces a handy tool to help you analyze multiple...Continue reading at https://medium.com/@damiorimoogunje/power-of-technical-analysis-an-app-to-view-cryptocurrency-market-insights-261f714f8324
